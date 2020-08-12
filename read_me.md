@@ -1,6 +1,6 @@
-1 Download testProject.rar ;
+1 Download testProject.rar
 
-2 Npm install or npm i ;
+2 Npm install or npm i
 
 3 Gulp
 
